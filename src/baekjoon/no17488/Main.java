@@ -1,6 +1,9 @@
-package alkon.no17488;
+package baekjoon.no17488;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
 import static java.util.Collections.sort;
 
 public class Main {
