@@ -1,7 +1,9 @@
+import java.util.Scanner;
+
 public class Test {
+    static Scanner sc = new Scanner(System.in);
+
     public static void main(String[] args) {
-        String result = "";
-        result += 1;
-        System.out.println(result);
+
     }
 }
