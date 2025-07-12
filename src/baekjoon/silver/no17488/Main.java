@@ -1,4 +1,4 @@
-package baekjoon.no17488;
+package baekjoon.silver.no17488;
 
 import java.util.ArrayList;
 import java.util.List;

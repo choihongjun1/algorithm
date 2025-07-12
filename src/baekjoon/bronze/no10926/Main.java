@@ -1,4 +1,4 @@
-package baekjoon.no18108;
+package baekjoon.bronze.no10926;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class Main {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-        int year = sc.nextInt();
-        System.out.println(year - 543);
+        String id = sc.next();
+        System.out.println(id.concat("??!"));
     }
 }

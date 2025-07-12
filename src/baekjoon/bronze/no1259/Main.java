@@ -1,4 +1,4 @@
-package baekjoon.no1259;
+package baekjoon.bronze.no1259;
 
 import java.util.ArrayList;
 import java.util.Iterator;

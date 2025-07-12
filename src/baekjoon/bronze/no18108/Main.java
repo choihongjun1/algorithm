@@ -1,4 +1,4 @@
-package baekjoon.no1000;
+package baekjoon.bronze.no18108;
 
 import java.util.Scanner;
 
@@ -6,9 +6,7 @@ public class Main {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-        int a = sc.nextInt();
-        int b = sc.nextInt();
-
-        System.out.println(a + b);
+        int year = sc.nextInt();
+        System.out.println(year - 543);
     }
 }

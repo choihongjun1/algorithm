@@ -1,4 +1,4 @@
-package baekjoon.no1008;
+package baekjoon.bronze.no1001;
 
 import java.util.Scanner;
 
@@ -8,8 +8,7 @@ public class Main {
     public static void main(String[] args) {
         int a = sc.nextInt();
         int b = sc.nextInt();
-        if (b != 0) {
-            System.out.println((double) a / b);
-        }
+
+        System.out.println(a - b);
     }
 }
