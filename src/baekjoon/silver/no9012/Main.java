@@ -30,19 +30,11 @@ public class Main {
 
         for(int i = 0; i < ps.length(); i++) {
             char c = ps.charAt(i);
-            if(c == '(' || c == '{' || c == '[') {
+            if(c == '(') {
                 stack.push(c);
             } else if(c == ')') {
                 if(stack.isEmpty()) return false;
                 if(stack.peek() == '(') stack.pop();
-                else return false;
-            } else if(c == '}') {
-                if(stack.isEmpty()) return false;
-                if(stack.peek() == '}') stack.pop();
-                else return false;
-            } else if(c == ']') {
-                if(stack.isEmpty()) return false;
-                if(stack.peek() == ']') stack.pop();
                 else return false;
             }
         }
