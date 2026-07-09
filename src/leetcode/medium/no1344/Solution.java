@@ -1,4 +1,4 @@
-package leetcode.easy.no1344;
+package leetcode.medium.no1344;
 
 class Solution {
     public double angleClock(int hour, int minutes) {
