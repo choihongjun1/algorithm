@@ -1,4 +1,4 @@
-package leetcode.hard;
+package leetcode.hard.no630;
 
 import java.util.Arrays;
 import java.util.Comparator;
