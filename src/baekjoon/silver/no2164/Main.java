@@ -1,4 +1,4 @@
-package alkon.week1.no2164;
+package baekjoon.silver.no2164;
 
 import java.util.LinkedList;
 import java.util.Queue;

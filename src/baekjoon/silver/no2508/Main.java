@@ -1,4 +1,4 @@
-package alkon.week2.no2508;
+package baekjoon.silver.no2508;
 
 import java.util.Scanner;
 
