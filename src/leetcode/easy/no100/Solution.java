@@ -1,8 +1,5 @@
 package leetcode.easy.no100;
 
-
-import algo.tree.Traversal;
-
 class TreeNode {
     int val;
     TreeNode left;
