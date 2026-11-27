@@ -1,4 +1,4 @@
-package baekjoon.notratable.no18017;
+package baekjoon.silver.no18017;
 
 import java.io.*;
 import java.util.StringTokenizer;
